@@ -1,5 +1,5 @@
 # K-means-Titanic-dataset
-__README__
+##README
 This Google Colab notebook demonstrates the implementation of k-means clustering using Python and scikit-learn. The notebook includes a step-by-step guide to the process, along with sample code and visualizations.
 
 ##Getting Started##
